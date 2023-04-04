@@ -1,0 +1,5 @@
+﻿"azimuth_horizontal_rail_length"=12in
+"azimuth_vertictal_rail_length"=6in
+"altitude_horizontal_rail_length"=12in
+"altitude_vertictal_rail_length"=6in
+"wall_screw_clearance_diameter"=4.3mm
