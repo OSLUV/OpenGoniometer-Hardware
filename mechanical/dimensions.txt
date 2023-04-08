@@ -1,6 +1,5 @@
-﻿"azimuth_horizontal_rail_length"=(14in-0.29in)
-"azimuth_vertictal_rail_length_short"=6in
+﻿"azimuth_horizontal_rail_length"=("altitude_horizontal_rail_length"+4in-0.29in)
+"azimuth_vertictal_rail_length_short"=("altitude_vertictal_rail_length"-3in)
 "azimuth_vertictal_rail_length_long"=("azimuth_vertictal_rail_length_short"+4in)
-"altitude_horizontal_rail_length"=10in
-"altitude_vertictal_rail_length"=8in
-"wall_screw_clearance_diameter"=4.3mm
+"altitude_horizontal_rail_length"=12in
+"altitude_vertictal_rail_length"=10in
