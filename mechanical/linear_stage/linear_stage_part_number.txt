@@ -1,0 +1,24 @@
+Festo linear slide rail
+http://www.festo.com/cat/en-gb_gb/products_EGC_SP
+EGC-120-1850-BS-25P-KF-100H-MR-GV
+
+Working stroke: 50-1850 mm
+Max speed: 1.5 m/s
+Max acceleration: 15 m/s^2
+Spindle pitch: 25 mm/rev
+Max RPM: 3600
+
+Limit switches cable connector:
+AMP 206708-1
+Female pins:
+AMP 66565-4
+
+Mating connector:
+AMP 206705-1
+Male pins:
+AMP 66566-4
+
+Connector accessories:
+Shell size: 13, 3/4"-20 thread
+Clamp:
+206966-7

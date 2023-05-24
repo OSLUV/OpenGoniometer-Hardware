@@ -1,5 +1,13 @@
-﻿"azimuth_horizontal_rail_length"=("altitude_horizontal_rail_length"+4in-0.29in)
-"azimuth_vertictal_rail_length_short"=("altitude_vertictal_rail_length"-3in)
+﻿"azimuth_horizontal_rail_length"=("altitude_horizontal_rail_length"+6in-0.29in)
+"azimuth_vertictal_rail_length_short"=("altitude_vertictal_rail_length"-5in)
 "azimuth_vertictal_rail_length_long"=("azimuth_vertictal_rail_length_short"+4in)
-"altitude_horizontal_rail_length"=12in
-"altitude_vertictal_rail_length"=10in
+"altitude_horizontal_rail_length"=10in
+"altitude_vertictal_rail_length"=12in
+"table_length"=72in
+"table_width"=25in
+"table_thickness"=1.75in
+"azimuth_mounting_hole_distance"=9in
+"table_frame_vertical_length"=12.5in
+"table_frame_diagonal_length"=17.5in
+"linear_horizontal_rail_length"=12in
+"linear_vertictal_rail_length"=12in
