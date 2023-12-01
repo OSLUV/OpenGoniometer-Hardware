@@ -10,4 +10,7 @@
 "table_frame_vertical_length"=12.5in
 "table_frame_diagonal_length"=17.5in
 "linear_horizontal_rail_length"=12in
-"linear_vertictal_rail_length"=8.5in
+"linear_vertictal_rail_length"=10in
+"aperture_at_1m"=50mm
+"aperture_at_0.5m"=25mm
+"aperture_shroud_length"=120mm
